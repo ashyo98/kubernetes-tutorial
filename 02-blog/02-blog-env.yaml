@@ -14,7 +14,7 @@ spec:
   # 
   containers:
   - name: blog
-    image: dirkcgrunwald/blog:latest
+    image: ash002019/dockertutorial:v0.1
     ports:
       - containerPort: 8888
     env:

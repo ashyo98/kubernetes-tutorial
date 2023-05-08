@@ -1,5 +1,5 @@
 VERSION=v4
-DOCKERUSER=dirkcgrunwald
+DOCKERUSER=ash002019
 
 build:
 	docker build -t minio-example .

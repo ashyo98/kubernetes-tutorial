@@ -14,7 +14,7 @@ spec:
   # 
   containers:
   - name: curl
-    image: dirkcgrunwald/blog:latest
+    image: ash002019/dockertutorial:v0.1
     #
     # We're going to always pull the most recent version
     # of this image in case we've changed it
